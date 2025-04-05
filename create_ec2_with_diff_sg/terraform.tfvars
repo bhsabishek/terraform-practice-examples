@@ -4,4 +4,4 @@ instance_type	= "t2.micro"
 key_name	= "mac_abi"
 sg_name		= "terraform-sg"
 ec2_name	= "Terraform-EC2"
-
+instance_count  = 2

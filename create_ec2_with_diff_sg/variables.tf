@@ -28,3 +28,7 @@ variable "ec2_name" {
   type        = string
 }
 
+variable "instance_count" {
+  description = "Pass Instance Required Count"
+  type	      = number
+}
